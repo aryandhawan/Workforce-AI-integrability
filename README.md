@@ -1,4 +1,4 @@
-# Workforce Attrition Predictor 🚀
+# Workforce Attrition Predictor 
 
 A machine learning model to predict employee attrition using HR dataset features like age, salary, overtime, and work experience. Built using Logistic Regression + GridSearchCV for hyperparameter tuning.
 
